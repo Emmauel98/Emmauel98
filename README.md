@@ -10,7 +10,18 @@
 - 💞️ I'm on a continuous learning journey, striving to make a positive impact on people's lives, both near and far.
 - 📫 You can me reach me on <a href="https://twitter.com/olami_js" style="color: rgb(9,180,228);">@olami_js</a> on twitter, oluwapelumi olamilekan on linkedin...
 
-<h1> About me </h1>
+<style>
+  @keyframes color {
+    0% {
+      color: rgb(232,122,0);
+    }
+    100% {
+      color: rgb(9,180,228);
+    }
+  }
+</style>
+
+<h1 style=" animation: colorChange infinite 2s;"> About me </h1>
 <div>
   <p>I'm a dedicated tech enthusiast with a deep love for all things tech. As a frontend-heavy full-stack developer, I've successfully delivered various projects including a </p>
   <!-- comprehensive church website, engaging landing pages, a versatile calculator, and even a Figma plugin. -->
