@@ -1,13 +1,8 @@
-<div>
-  <img src="![Full Stack Developer](https://github.com/Emmauel98/Figma_Icon_Library/assets/103376339/201b15d5-f8d0-4498-9da0-94103079e1a2)"
-    alt="oluwapelumi olamilekan" />
-</div>
-
-https://github.com/Emmauel98/Figma_Icon_Library/assets/103376339/139bcb8f-f23e-4a1c-af49-881ec315dd9f
-
 ![Full Stack Developer](https://github.com/Emmauel98/Figma_Icon_Library/assets/103376339/201b15d5-f8d0-4498-9da0-94103079e1a2)
 
-
+<h1 style="color: rgb(9,180,228);">
+  <a href="https://github.com/Emmauel98"> Hi! I am olamilkan Oluwapelumi </a>
+</h1>
 
 
 - 👋 Hi, I’m olami.js
