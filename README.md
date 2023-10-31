@@ -53,13 +53,15 @@
 
 
 <br/> <br/>
-# Programming isn't about what you know It's about what you can figure. Credit: @JayantGoel001
+<h1 style="color: rgb(9,180,228);">
+  <a href="https://github.com/Emmauel98"> Programming isn't about what you know It's about what you can figure. Credit: @JayantGoel001 </a>
+</h1>
 ```diff
 
                                 \\_V_//        //////////\|?||@@@}}
                                 \/=|=\/      /   I know what to     \ //
-                                 [=v=]      /    do when stuck      /
-                               __\___/_____  ____@Olami.js_________/
+                                 [=v=]      /    do when i'm stuck.. /
+                               __\___/_____  _______@Olami.js_______/
                               /..[  _____  ]    
                              /_  [ [  M /] ]
                             /../.[ [ M /@] ]
