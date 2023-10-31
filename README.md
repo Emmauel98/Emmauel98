@@ -53,9 +53,11 @@
 
 
 <br/> <br/>
-<h1 style="color: rgb(9,180,228);">
-  <a href="https://github.com/Emmauel98"> Programming isn't about what you know It's about what you can figure. Credit: @JayantGoel001 </a>
-</h1>
+<p style="color: gray">
+  <a href="https://github.com/Emmauel98"> Programming isn't about what you know It's about what you can figure. 
+    <code>Credit: @JayantGoel001 </code>
+  </a>
+</p>
 
 ```diff
 
