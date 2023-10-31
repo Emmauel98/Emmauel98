@@ -43,8 +43,8 @@
 <code><img height="100" width="100" src="Top_20_Tailwind_CSS_Interview_Questions_and_Answers-removebg-preview.png"/></code>
 <code><img height="100" width="100" src="Framer_motion_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png"/></code>
 <code><img height="100" width="100" src="_Node_js__Sticker_for_Sale_by_BraveLilToaster-removebg-preview.png"/></code>
-<code><img height="100" width="100" src="Getting_started_with_Express_js-removebg-preview.png"/></code>
-<code><img height="100" width="100" src="mongodb.png"/></code>
+<code style="background-color: white"><img height="100" width="100" src="Getting_started_with_Express_js-removebg-preview.png"/></code>
+<code align="right"><img height="100" width="100" src="mongodb.png"/></code>
 <br/>
 <br/>
 
