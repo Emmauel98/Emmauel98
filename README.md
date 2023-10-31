@@ -43,7 +43,7 @@
 <code><img height="100" width="100" src="Top_20_Tailwind_CSS_Interview_Questions_and_Answers-removebg-preview.png"/></code>
 <code><img height="100" width="100" src="Framer_motion_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png"/></code>
 <code><img height="100" width="100" src="_Node_js__Sticker_for_Sale_by_BraveLilToaster-removebg-preview.png"/></code>
-<code><img height="100" width="100" style="background-color: white" src="Getting_started_with_Express_js-removebg-preview.png"/></code>
+<code><img height="100" width="100" src="Getting started with Express_js.jpeg"/></code>
 <code align="right"><img height="100" width="100" style="margin-left: 15rem" src="mongodb.png"/></code>
 <br/>
 <br/>
