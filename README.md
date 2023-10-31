@@ -30,11 +30,13 @@
   </ul>
 </div>
 #
+<div>
+  
 <img align="left" height="300px" width="300px" src="/Qr_Code_Design_Vector_PNG_Images__Code_Icon_Design_Vector__Code_Icons__Icon__Illustration_PNG_Image_For_Free_Download-removebg-preview.png" />
 <br/>
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<h2>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:</h2>
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></code>
+<code><img height="100" width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
 <code><img height="40" width="40" src="React_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png"/></code>
@@ -45,6 +47,8 @@
 <code><img height="40" width="40" src="mongodb.png"/></code>
 <br/>
 <br/>
+
+</div>
 
 
 #
