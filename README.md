@@ -53,29 +53,9 @@
 
 
 <br/> <br/>
+# Programming isn't about what you know It's about what you can figure. Credit: @JayantGoel001
 ```diff
 
-                         ______                     
- _________        .---"""      """---.              
-:______.-':      :  .--------------.  :             
-| ______  |      | :                : |             
-|:______B:|      | |  Little Error: | |                             
-|:______B:|      | |                | |             
-|:______B:|      | |  Power not     | |             
-|         |      | |  found.        | |             
-|:_____:  |      | |                | |             
-|    ==   |      | :                : |             
-|       O |      :  '--------------'  :             
-|       o |      :'---...______...---'              
-|       o |-._.-i___/'             \._              
-|'-.____o_|   '-.   '-...______...-'  `-._          
-:_________:      `.____________________   `-.___.-. 
-                 .'.eeeeeeeeeeeeeeeeee.'.      :___:
-    fsc        .'.eeeeeeeeeeeeeeeeeeeeee.'.         
-              :____________________________:
-
-
-##Programming isn't about what you know It's about what you can figure. Credit: @JayantGoel001
                                 \\_V_//        //////////\|?||@@@}}
                                 \/=|=\/      /   I know what to     \ //
                                  [=v=]      /    do when stuck      /
