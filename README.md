@@ -11,7 +11,7 @@
 - 📫 You can me reach me on <a href="https://twitter.com/olami_js" style="color: rgb(9,180,228);">@olami_js</a> on twitter, oluwapelumi olamilekan on linkedin...
 
 <style>
-  @keyframes color {
+  @keyframes colorChange {
     0% {
       color: rgb(232,122,0);
     }
