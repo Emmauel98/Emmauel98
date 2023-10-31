@@ -29,7 +29,7 @@
     </li>
   </ul>
 </div>
-#
+
 <div>
   
 <img align="left" height="300px" width="300px" src="/Qr_Code_Design_Vector_PNG_Images__Code_Icon_Design_Vector__Code_Icons__Icon__Illustration_PNG_Image_For_Free_Download-removebg-preview.png" />
@@ -51,7 +51,7 @@
 </div>
 
 
-#
+
 <br/> <br/>
 ```diff
 
@@ -74,7 +74,8 @@
     fsc        .'.eeeeeeeeeeeeeeeeeeeeee.'.         
               :____________________________:
 
- |     | Programming isn't about what you know It's about what you can figure. Credit: @JayantGoel001
+
+##Programming isn't about what you know It's about what you can figure. Credit: @JayantGoel001
                                 \\_V_//        //////////\|?||@@@}}
                                 \/=|=\/      /   I know what to     \ //
                                  [=v=]      /    do when stuck      /
