@@ -37,14 +37,14 @@
 <h2>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:</h2>
 
 <code><img height="100" width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
-<code><img height="40" width="40" src="React_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png"/></code>
-<code><img height="40" width="40" src="Top_20_Tailwind_CSS_Interview_Questions_and_Answers-removebg-preview.png"/></code>
-<code><img height="40" width="40" src="Framer_motion_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png"/></code>
-<code><img height="40" width="40" src="_Node_js__Sticker_for_Sale_by_BraveLilToaster-removebg-preview.png"/></code>
-<code><img height="40" width="40" src="Getting_started_with_Express_js-removebg-preview.png"/></code>
-<code><img height="40" width="40" src="mongodb.png"/></code>
+<code><img height="100" width="100" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"/></code>
+<code><img height="100" width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
+<code><img height="100" width="100" src="React_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png"/></code>
+<code><img height="100" width="100" src="Top_20_Tailwind_CSS_Interview_Questions_and_Answers-removebg-preview.png"/></code>
+<code><img height="100" width="100" src="Framer_motion_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png"/></code>
+<code><img height="100" width="100" src="_Node_js__Sticker_for_Sale_by_BraveLilToaster-removebg-preview.png"/></code>
+<code><img height="100" width="100" src="Getting_started_with_Express_js-removebg-preview.png"/></code>
+<code><img height="100" width="100" src="mongodb.png"/></code>
 <br/>
 <br/>
 
