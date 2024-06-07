@@ -12,7 +12,10 @@
 
 <h1 style="color: rgb(232,122,0);"> About me </h1>
 <div>
-  <p>I'm a dedicated tech enthusiast with a deep love for all things tech. As a frontend-heavy full-stack developer, I've successfully delivered various projects including a </p>
+  <p>Hello! I'm a dedicated and passionate developer with a vision for solving challenges, reshaping the landscape of web and mobile applications, and introducing innovations to the world of technology. My mission is to build robust solutions that contribute to the growth and empowerment of our community.
+
+I am always excited to connect with like-minded individuals who share this vision. If you believe in elevating our community through the creation of powerful applications, let's work together to turn our shared vision of the future into a tangible reality. </p>
+  <p>Some of my works are listed below: </p>
   <!-- comprehensive church website, engaging landing pages, a versatile calculator, and even a Figma plugin. -->
   <ul>
     <li>
@@ -22,7 +25,7 @@
       <a>Animated landing page</a>
     </li>
     <li>
-      <a>a versatile calculator</a>
+      <a>NFT Marketplace</a>
     </li>
     <li>
       <a href='https://github.com/Emmauel98/Figma_Icon_Library'>and even a Figma plugin</a>
