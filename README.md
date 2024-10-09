@@ -1,18 +1,20 @@
 ![Full Stack Developer](https://github.com/Emmauel98/Figma_Icon_Library/assets/103376339/201b15d5-f8d0-4498-9da0-94103079e1a2)
 
 <h1 style="color: rgb(9,180,228);">
-  <a href="https://github.com/Emmauel98"> Hi! I am  Oluwapelumi Olamilekan </a>
+  <a href="https://github.com/Emmauel98"> Hi! Iam Oluwapelumi Olamilekan 👋 </a>
 </h1>
 
 
-- 👋 Hello! I’m olami.js
 - 👀 I’m passionate about creating innovative software solutions, integrating AI into development, and tackling complex problems.
 - 💞️ I'm on a continuous learning journey, striving to make a positive impact on people's lives, both near and far.
 - 📫 You can me reach me on <a href="https://twitter.com/olami_js" style="color: rgb(9,180,228);">@olami_js</a> on twitter, oluwapelumi olamilekan on linkedin...
 
 <h1 style="color: rgb(232,122,0);"> About me </h1>
 <div>
-  <p> I'm a dedicated and passionate developer with a vision for solving challenges, reshaping the landscape of web and mobile applications, and introducing innovations to the world of technology. My mission is to build robust solutions that contribute to the growth and empowerment of our community.
+  <p>
+    I ama **full-stack developer** with a primary focus on **building high-quality web and mobile applications**. I am skilled in crafting efficient and user-friendly applications using modern technologies, and I have experience working on backend development to create scalable systems.
+
+  I am a passionate developer reshaping the future of web and mobile applications through innovative software solutions. My mission is to build impactful, tech-driven solutions that enhance community growth and empowerment.
 
 I am always excited to connect with like-minded individuals who share this vision. If you believe in elevating our community through the creation of powerful applications, let's work together to turn our shared vision of the future into a tangible reality. </p>
   <p>Some of my works are listed below: </p>
