@@ -12,7 +12,7 @@
 <h1 style="color: rgb(232,122,0);"> About me </h1>
 <div>
   <p>
-    I ama <b>Full-stack developer</b> with a primary focus on **building high-quality web and mobile applications**. I am skilled in crafting efficient and user-friendly applications using modern technologies, and I have experience working on backend development to create scalable systems.
+    I ama <b>Full-stack developer</b> with a primary focus on <b></b>building high-quality web and mobile applications</p>. I am skilled in crafting efficient and user-friendly applications using modern technologies, and I have experience working on backend development to create scalable systems.
 
   I am a passionate developer reshaping the future of web and mobile applications through innovative software solutions. My mission is to build impactful, tech-driven solutions that enhance community growth and empowerment.
 
