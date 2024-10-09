@@ -40,42 +40,14 @@ I am always excited to connect with like-minded individuals who share this visio
 - **Others**: Git, GitHub, Figma, Postman
 - **Cloud**: Firebase
 
-  <p>Some of my works are listed below: </p>
-  <!-- comprehensive church website, engaging landing pages, a versatile calculator, and even a Figma plugin. -->
-  <ul>
-    <li>
-      <a href="https://github.com/Emmauel98/kingshillCityChurchWebsite">comprehensive church website </a>
-    </li>
-    <li>
-      <a>Animated landing page</a>
-    </li>
-    <li>
-      <a>NFT Marketplace</a>
-    </li>
-    <li>
-      <a href='https://github.com/Emmauel98/Figma_Icon_Library'>and even a Figma plugin</a>
-    </li>
-  </ul>
+  
 </div>
 
 <div>
-  
-<img align="left" height="300px" width="300px" src="/Qr_Code_Design_Vector_PNG_Images__Code_Icon_Design_Vector__Code_Icons__Icon__Illustration_PNG_Image_For_Free_Download-removebg-preview.png" />
-<br/>
-<h2>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:</h2>
-
-<code><img height="100" width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></code>
-<code><img height="100" width="100" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"/></code>
-<code><img height="100" width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
-<code><img height="100" width="100" src="React_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png"/></code>
-<code><img height="100" width="100" src="Top_20_Tailwind_CSS_Interview_Questions_and_Answers-removebg-preview.png"/></code>
-<code><img height="100" width="100" src="Framer_motion_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png"/></code>
-<code><img height="100" width="100" src="_Node_js__Sticker_for_Sale_by_BraveLilToaster-removebg-preview.png"/></code>
-<code><img height="100" width="100" src="Getting started with Express_js.jpeg"/></code>
-<code align="right"><img height="100" width="100" style="margin-left: 15rem" src="mongodb.png"/></code>
-<br/>
-<br/>
-
+ # Let's Connect!
+- 📧 [Email me](mailto:youremail@example.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
 </div>
 
 
