@@ -19,7 +19,7 @@ I am a passionate developer reshaping the future of web and mobile applications 
 I am always excited to connect with like-minded individuals who share this vision. If you believe in elevating our community through the creation of powerful applications, let's work together to turn our shared vision of the future into a tangible reality. </p>
 
 # My Specialties 🎓
-- 🌐 **Web Development**: Creating responsive, accessible, and performant websites using **React.js**, **Next.js**, **Tailwind CSS**, and **Framer Motion**.
+- 🌐 **Web Development**: Creating responsive, accessible, and performant websites using **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
 - 📱 **Mobile Development**: Building cross-platform mobile applications using **React Native** and **TypeScript**.
 - 🔧 **Backend Development**: Developing REST APIs and handling server-side logic using **Node.js**, **Express.js**, and **MongoDB**.
 
