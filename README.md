@@ -44,10 +44,12 @@ I am always excited to connect with like-minded individuals who share this visio
 </div>
 
 <div>
+  
  # Let's Connect!
-- 📧 [Email me](mailto:youremail@example.com)
+- 📧 [Email me](mailto:salaudeenoluwapelumi98@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
+- 
 </div>
 
 
